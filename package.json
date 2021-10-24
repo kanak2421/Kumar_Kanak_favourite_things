@@ -1,0 +1,29 @@
+{
+  "name": "my_favourite_things",
+  "version": "1.0.0",
+  "description": "This my favourite things project of semester 3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kanak2421/Kumar_Kanak_favourite_things.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "package",
+  ],
+  "author": "Kanak Kumar",
+  "license": "ISC",
+    "url": "https://github.com/kanak2421/Kumar_Kanak_favourite_things.git"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.2"
+  }
+}
